@@ -1,0 +1,46 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "我的账本"
+			}
+		},
+		{
+			"path": "pages/records/index",
+			"style": {
+				"navigationBarTitleText": "账目明细"
+			}
+		},
+		{
+			"path": "pages/entry/index",
+			"style": {
+				"navigationBarTitleText": "记一笔"
+			}
+		},
+		{
+			"path": "pages/record-detail/index",
+			"style": {
+				"navigationBarTitleText": "账目详情"
+			}
+		},
+		{
+			"path": "pages/statistics/index",
+			"style": {
+				"navigationBarTitleText": "收支统计"
+			}
+		},
+		{
+			"path": "pages/profile/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "我的账本",
+		"navigationBarBackgroundColor": "#F5F6F3",
+		"backgroundColor": "#F5F6F3"
+	}
+}
